@@ -1,0 +1,10 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/FoundoratorTL/bonrecreme-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/FoundoratorTL/bonrecreme-server.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/FoundoratorTL/bonrecreme-docs.git
+
